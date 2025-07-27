@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
+
 setup(
-    name='rag_document_portal',
-    version='0.1',
+    name="document_portal",
+    author="Rajesh R",
+    version="0.2",
     packages=find_packages(),
-    author='Rajesh R',
-    author_email='rajeshraiml@gmail.com'
 )
